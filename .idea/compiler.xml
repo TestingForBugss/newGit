@@ -9,5 +9,8 @@
         <module name="newGit" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="newGit" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
